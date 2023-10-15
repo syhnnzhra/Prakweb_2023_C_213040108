@@ -1,0 +1,10 @@
+@import url("http:://fonts.gfamily=Inter:400");
+
+.create{
+    background-color: var(--white);
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+}
+
+.hidden, .hidden * {}
